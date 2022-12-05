@@ -1,6 +1,6 @@
 
 public class Main {
     public static void main (String[] args) {
-        System.out.println("Helllo world");
+        System.out.println("My First java program");
     }
 }
